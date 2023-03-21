@@ -1,5 +1,4 @@
-# math-input
-Grading System
+#Grading System
 This project is a simple web-based grading system that determines a student's grade based on their score.
 
 Technologies Used
